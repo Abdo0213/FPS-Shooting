@@ -1,0 +1,4 @@
+repository "Shooting/Shooting@11270581945285@cloud"
+  path "/"
+    br "/main"
+    co "/main"
